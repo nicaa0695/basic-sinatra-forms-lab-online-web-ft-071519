@@ -6,5 +6,5 @@ get '/newteam' do
   erb :newteam
 end 
 
-post '/'
+
 end
